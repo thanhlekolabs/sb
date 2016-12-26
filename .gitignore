@@ -1,5 +1,5 @@
 node_modules/*
 public/js/bootstrap.js
-public/js/vender.js
+public/js/vendor.js
 public/js/init.js
 
